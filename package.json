@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "run-singleton": "ts-node -T ./src/singleton/index.ts",
-    "run-factory": "ts-node -T ./src/factory/index.ts"
+    "run-factory": "ts-node -T ./src/factory/index.ts",
+    "run-abstract-factory": "ts-node -T ./src/abstractFactory/index.ts"
   },
   "dependencies": {},
   "devDependencies": {
