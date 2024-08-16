@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ESNext", // Specifies the ECMAScript target version
+        "module": "CommonJS", // Use CommonJS module system
+        "moduleResolution": "Node", // Use Node.js module resolution
+        "esModuleInterop": true, // Enables interoperability between CommonJS and ES modules
+        "strict": true, // Enables strict type-checking options
+        "skipLibCheck": true // Skips type checking of declaration files
+    },
+    "include": [
+        "src/**/*"
+    ] // Include your TypeScript files
+}
