@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run-singleton": "ts-node -T ./src/singleton/index.ts"
+    "run-singleton": "ts-node -T ./src/singleton/index.ts",
+    "run-factory": "ts-node -T ./src/factory/index.ts"
   },
   "dependencies": {},
   "devDependencies": {
