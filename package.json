@@ -8,7 +8,8 @@
     "run-singleton": "ts-node -T ./src/singleton/index.ts",
     "run-factory": "ts-node -T ./src/factory/index.ts",
     "run-abstract-factory": "ts-node -T ./src/abstractFactory/index.ts",
-    "run-builder": "ts-node -T ./src/builder/index.ts"
+    "run-builder": "ts-node -T ./src/builder/index.ts",
+    "run-facade": "ts-node -T ./src/facade/index.ts"
   },
   "dependencies": {},
   "devDependencies": {
