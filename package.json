@@ -10,7 +10,8 @@
     "run-abstract-factory": "ts-node -T ./src/abstractFactory/index.ts",
     "run-builder": "ts-node -T ./src/builder/index.ts",
     "run-facade": "ts-node -T ./src/facade/index.ts",
-    "run-strategy": "ts-node -T ./src/strategy/index.ts"
+    "run-strategy": "ts-node -T ./src/strategy/index.ts",
+    "run-observer": "ts-node -T ./src/observer/index.ts"
   },
   "dependencies": {},
   "devDependencies": {
